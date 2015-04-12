@@ -1,2 +1,3 @@
-# datasciencecoursera
-Repository for DSS on Coursera
+# Data Science Course on Coursera
+
+Init
